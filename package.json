@@ -1,0 +1,17 @@
+{
+  "name": "itemguid-extractor2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hitesh Lalwani",
+  "license": "ISC",
+  "dependencies": {
+    "csv-write-stream": "^2.0.0",
+    "find": "^0.2.9",
+    "node-stream-zip": "^1.7.0",
+    "request": "^2.88.0"
+  }
+}

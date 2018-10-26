@@ -1,0 +1,4 @@
+{
+    "login_url": "https://accounts.auth.konycloud.com/login",
+    "components_api": "https://community.kony.com/api/v1_0/marketplace/item"
+}
